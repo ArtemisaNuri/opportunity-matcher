@@ -1,6 +1,6 @@
 # Opportunity Matcher
 
-Internal Internyl tool that scores incoming client opportunities against the team's real capacity and project load, then sorts them into **Top / Queued / Backup / Deferred / Bad** matches. Every score explains itself.
+Internal  tool that scores incoming client opportunities against the team's real capacity and project load, then sorts them into **Top / Queued / Backup / Deferred / Bad** matches. Every score explains itself.
 
 ```bash
 npm install
