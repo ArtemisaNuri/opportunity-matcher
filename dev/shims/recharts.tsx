@@ -1,0 +1,10 @@
+import { ResponsiveContainer, makeChart, makePart } from "./recharts-base";
+export { ResponsiveContainer };
+export const Area = makePart("Area", true);
+export const CartesianGrid = makePart("CartesianGrid");
+export const ComposedChart = makeChart("ComposedChart");
+export const Line = makePart("Line", true);
+export const ReferenceArea = makePart("ReferenceArea");
+export const Tooltip = makePart("Tooltip");
+export const XAxis = makePart("XAxis");
+export const YAxis = makePart("YAxis");
